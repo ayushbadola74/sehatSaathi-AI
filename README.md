@@ -11,10 +11,12 @@ AI-powered healthcare triage web application that analyzes user symptoms using i
 • Smart medical guidance in simple language  
 • Automatic nearby doctor suggestion for high-risk cases  
 • Optional nearby doctor suggestions for low & medium risk  
+• Real-time location-based doctor detection using maps  
+• Emergency location alert support for critical cases  
 • Medical report parameter explanation (Hemoglobin, RBC, etc.)  
 • Card-based clean UI for health insights  
 • Emergency-support ready architecture  
-• Multi-language response-ready system  
+• Multi-language response-ready system 
 
 ---
 
