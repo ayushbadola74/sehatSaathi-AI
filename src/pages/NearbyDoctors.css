@@ -1,0 +1,77 @@
+.doctors-page {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.doctor-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.doc-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.doc-icon-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: var(--primary-blue-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.doc-icon {
+  color: var(--primary-blue);
+}
+
+.doc-title-info h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  marginBottom: 0.25rem;
+}
+
+.specialist-tag {
+  font-size: 0.875rem;
+  color: var(--primary-blue);
+  background-color: var(--primary-blue-light);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-md);
+  display: inline-block;
+  margin-top: 0.25rem;
+  font-weight: 500;
+}
+
+.doc-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  background-color: #f8fafc;
+  padding: 1rem;
+  border-radius: var(--radius-md);
+}
+
+.detail-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.95rem;
+  color: var(--text-dark);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.text-warning {
+  color: var(--warning-yellow);
+}
+
+.doc-action-btn {
+  width: 100%;
+}

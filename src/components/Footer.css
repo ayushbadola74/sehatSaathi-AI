@@ -1,0 +1,18 @@
+.app-footer {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  margin-top: auto;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-content p {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
