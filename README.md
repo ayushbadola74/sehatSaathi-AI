@@ -20,11 +20,11 @@ AI-powered healthcare triage web application that analyzes user symptoms using i
 
 ## 🧠 How It Works
 
-• User enters symptoms in text form  
-• AI analyzes symptoms using medical reasoning logic  
-• System predicts severity level  
-• Personalized guidance is generated  
-• Nearby doctors suggested based on urgency  
+1 User enters symptoms in text form  
+2 AI analyzes symptoms using medical reasoning logic  
+3 System predicts severity level  
+4 Personalized guidance is generated  
+5 Nearby doctors suggested based on urgency  
 
 ---
 
@@ -53,7 +53,6 @@ AI-powered healthcare triage web application that analyzes user symptoms using i
 
 ---
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
