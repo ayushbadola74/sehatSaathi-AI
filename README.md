@@ -55,15 +55,27 @@ AI-powered healthcare triage web application that analyzes user symptoms using i
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 SehatSaathi-AI
 │
-├── public
-├── src
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .env.local
 ├── .gitignore
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 
 ---
